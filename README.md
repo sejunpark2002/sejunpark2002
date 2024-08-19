@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Sejun 👋
+
+
+I'm a software developer passionate about creating practical yet beautiful apps. Some of the technologies I enjoy working with include ReactJS, JavaScript, and MongoDB. I am also involved in two tech communities: TechTank and TorontoJS.
 
 <!--
 **sejunpark2002/sejunpark2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
